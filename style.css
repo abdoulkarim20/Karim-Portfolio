@@ -295,6 +295,9 @@
 
 
 /* partie profile */
+.marge-haut{
+    margin-top: -25rem;
+}
 .profile-brief{
     height: 641px;
     background: #f3efef;
@@ -565,9 +568,9 @@
     /* Fin navbar section */
 
      /* profil */
-    .marge-haut{
-        margin-top: -10%;
-    }
+    /* .marge-haut{
+       
+    } */
     .profile-brief{
         height: 100%;
     }
